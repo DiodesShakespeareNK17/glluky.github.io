@@ -1,0 +1,280 @@
+body{
+    position: absolute;
+    background-color: #211d29;
+    background-image: url() ;
+    background-repeat: no-repeat;
+    background-size: 1300px 1700px;
+}
+
+.text {
+    display: inline-block;
+    position: absolute;
+    width: 850px;
+    height: 850px;
+    top: 5cm;
+    left: 15cm;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+}
+
+h1{
+    display: inline;
+    position: absolute;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    left: 800px;
+    color: white;
+    margin-top:80px;
+
+}
+
+img {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    right: 80%;
+    top: 3cm;
+    left: 3cm;
+
+
+
+}
+
+.botom,.boton4{
+    display: inline-block;
+    position: absolute;
+    text-decoration:none;
+    color: black;
+    font-size: 20px;
+    text-decoration: solid;
+    background-color: rgb(76, 76, 233);
+    padding: 10px;
+    border-radius: 15px;
+    top: 12cm;
+    left: 15cm;
+    text-decoration: solid;
+    font-family: 'Press Start 2P','Segoe UI', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:rgb(245, 245, 245);
+}
+
+.text5{
+    font-size: 20px;
+}
+
+.imagenbaja{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 950px;
+    left: 1500px;
+
+}
+
+.textfin {
+    display: inline-block;
+    position: absolute;
+    width: 25cm;
+    height: 40cm;
+    top: 300px;
+    left: 13cm;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    margin-bottom: 10cm;
+}
+
+.boton4{
+    position: absolute;
+    top: 1600px;
+    color: white;
+    font-family: 'Press Start 2P','Segoe UI', sans-serif;
+}
+
+.Contenido{
+    display: block;
+    position: absolute;
+    color: white;
+    top: 25cm;
+    background-color: black;
+    width: 100%;
+    left: 0.001cm;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+
+
+.titulo1{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    left: 14cm;
+    width: 1000px;
+    height: 100px;
+
+}
+
+.menu {
+    display: inline-block;
+    text-decoration:solid;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    padding: 0;
+    border-radius: 0%;
+    box-shadow: none;
+    color: white;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-family: 'Fredoka One', cursive;
+
+}
+
+.posicionmenu{
+    display: inline-block;
+    position: relative;
+    left: 20cm;
+    padding-bottom: 20px;
+}
+
+.Cajaprincipal {
+
+    position: absolute;
+    top: 10px;
+}
+
+.tituloprincipla {
+    position: absolute;
+    margin-top: 30px;
+    display: inline-block;
+    width: 40px;
+    height:600px;
+
+}
+
+.tituloprincipla1{
+    position: absolute;
+    margin-top: 30px;
+    display: inline-block;
+    width: 40px;
+    
+}
+
+.experi {
+    position: absolute;
+    background-color: rgb(27, 26, 26);
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    left: -30px;
+    z-index: -1;
+}ç
+
+.imagen_fondo {
+
+    position: absolute;
+    width: 70%;
+    height: 70%;
+    z-index: -3;
+}
+
+.Primera {
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    right: 80%;
+    top: 50px;
+    left: 50px;
+    z-index: -1;
+}
+
+.segunda {
+    position: absolute;
+    width: 470px;
+    height: 470px;
+    right: 80%;
+    top: 40px;
+    left: 50px;
+    z-index: -1;
+}
+
+.tercera {
+
+    position: absolute;
+    width: 410px;
+    height: 410px;
+    right: 80%;
+    top: 40px;
+    left: 50px;
+    z-index: -1;
+}
+
+.menu:hover{
+
+    font-size: 20px;
+    color: rgb(76, 76, 233);
+    margin-left: 5px;
+
+}
+
+.titulop {
+
+    position: absolute;
+    display: inline-block;
+    width: 1000px;
+    height: 100px;
+}
+
+h2{
+    color: white;
+}
+
+.text1 {
+    display: inline-block;
+    position: absolute;
+    width: 850px;
+    height: 850px;
+    top: 220px;
+    left: 15cm;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+}
+
+.titulo11{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    left: 500px;
+    width: 1000px;
+    height: 100px;
+
+}
+
+.titulo12{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    left: 650px;
+    width: 1000px;
+    height: 100px;
+
+}
+
+.imagenprimera {
+
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    right: 80%;
+    top: 300px;
+    left: 1px;
+
+}
